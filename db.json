@@ -2,83 +2,123 @@
    "music": [
     {
       "index" :"0",
-      "advertiseName" : "김남운",
-      "productName" :"아이폰",
+      "advertiserName" : "어도어",
+      "productName" :"뉴진스",
       "advertiseUrl" : "https://github.com/MondSeo/obigo-carmo/raw/main/mp4/Sample1.mp4",
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/JMW%20%ED%97%A4%EC%96%B4%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4.png",
-      "description" : "광고 설명 광고 설명 광고 설명 광고 설명3",
+      "description" : "뉴진스",
       "point" : 50,
-       "duration" : 16
+       "duration" : 16,
+       "type" : "video"
     },
       {
       "index" : "1",
-      "advertiseName" : "이기웅",
-      "productName" :"안드로이드",
+      "advertiserName" : "SSG.COM",
+      "productName" :"공공대작전",
       "advertiseUrl" : "https://github.com/MondSeo/obigo-carmo/raw/main/mp4/Sample2.mp4",
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EB%AA%85%ED%92%88%EC%8B%9C%EA%B3%84%20%ED%8A%B9%EB%B3%84%EC%A0%84.jpg",
-      "description" : "광고 설명 광고 설명6",
+      "description" : "공공대작전",
       "point" : 30,
-      "duration" : 15
+      "duration" : 15,
+      "type" : "video"
     },
     {
       "index" : "2",
-      "advertiseName" : "신기명",
-      "productName" :"컴퓨터",
+      "advertiserName" : "마동석",
+      "productName" :"신세계",
       "advertiseUrl" : "https://github.com/MondSeo/obigo-carmo/raw/main/mp4/Sample3.mp4",
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EB%B0%98%EB%A0%A4%EA%B2%AC%20%EC%82%AC%EB%A3%8C%20%EA%B4%91%EA%B3%A0.jpg",
-      "description" : "광고 설명 광고 설명7",
+      "description" : "신세계",
       "point" : 50,
       "duration" : 31
     },
     {
       "index" : "3",
-      "advertiseName" : "조수민",
-      "productName" :"쿠키",
-      "advertiseUrl" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "advertiserName" : "S.I 빌리지",
+      "productName" :"S.I 빌리지",
+      "advertiseUrl" : "https://github.com/MondSeo/obigo-carmo/raw/main/mp4/%EB%8F%99%EC%98%81%EC%83%81%EA%B4%91%EA%B3%A01.mp4",
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230700000376200.jpg",
-      "description" : "광고 설명 광고 설명1",
+      "description" : "S.I 빌리지",
       "point" : 30,
-       "duration" : 15
+      "duration" : 15,
+      "type" : "video"
     },
      {
       "index" : "4",
-      "advertiseName" : "민상연",
-      "productName" :"모니터",
-      "advertiseUrl" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "advertiserName" : "굽네",
+      "productName" :"시카고 피자",
+      "advertiseUrl" : "https://github.com/MondSeo/obigo-carmo/raw/main/mp4/%EB%8F%99%EC%98%81%EC%83%81%EA%B4%91%EA%B3%A02.mp4",
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%82%B0%ED%83%80%EB%A7%88%EB%A6%AC%EC%95%84%EB%85%B8%EB%B2%A8%EB%9D%BC%20%ED%8A%B9%EB%B3%84%EC%A0%84.jpg",
-      "description" : "광고 설명 광고 설명2",
+      "description" : "시카고 피자",
       "point" : 50,
-        "duration" : 60
+      "duration" : 60,
+      "type" : "video"
     },
       {
       "index" : "5",
-      "advertiseName" : "유승민",
-      "productName" :"식기",
-      "advertiseUrl" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "advertiserName" : "동아제약",
+      "productName" :"박카스",
+      "advertiseUrl" : "https://github.com/MondSeo/obigo-carmo/raw/main/mp4/%EB%8F%99%EC%98%81%EC%83%81%EA%B4%91%EA%B3%A03.mp4",
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%84%B8%EC%9D%B4%EC%A7%80%EC%9A%B0%EB%93%9C%207%EB%B0%958%EC%9D%BC.jpg",
-      "description" : "광고 설명 광고 설명4",
+      "description" : "박카스",
       "point" : 30,
-      "duration" : 15
+      "duration" : 15,
+      "type" : "video"
       },
       {
       "index" : "6",
-      "advertiseName" : "오지영",
-      "productName" :"음료수",
-      "advertiseUrl" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "advertiserName" : "T 스테이션",
+      "productName" :"타이어",
+      "advertiseUrl" : "https://github.com/MondSeo/obigo-carmo/raw/main/mp4/%EB%8F%99%EC%98%81%EC%83%81%EA%B4%91%EA%B3%A04.mp4",
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%95%84%EB%8F%99%EB%B3%B5%20%EC%B4%88%ED%8A%B9%EA%B0%80.jpg",
-      "description" : "광고 설명 광고 설명3",
+      "description" : "타이어",
       "point" : 50,
-       "duration" : 16
+      "duration" : 16,
+      "type" : "video"
       },
       {
       "index" : "7",
-      "advertiseName" : "임윤식",
-      "productName" :"배터리",
-      "advertiseUrl" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "advertiserName" : "금호타이어",
+      "productName" :"타이어",
+      "advertiseUrl" : "https://github.com/MondSeo/obigo-carmo/raw/main/mp4/%EB%8F%99%EC%98%81%EC%83%81%EA%B4%91%EA%B3%A05.mp4",
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%EC%A3%BC%EB%B0%A9%EA%B0%80%EC%A0%84.jpg",
-      "description" : "광고 설명 광고 설명2",
+      "description" : "",
       "point" : 100,
-      "duration" : 847
+      "duration" : 847,
+      "type" : "video"
+      },
+      {
+      "index" : "8",
+      "advertiserName" : "유주게임즈코리아",
+      "productName" :"삼국지 혼",
+      "advertiseUrl" : "https://github.com/MondSeo/obigo-carmo/raw/main/mp4/%EB%8F%99%EC%98%81%EC%83%81%EA%B4%91%EA%B3%A05.mp4",
+      "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230600000374641.jpg",
+      "description" : "삼국지 혼",
+      "point" : 50,
+      "duration" : 16,
+      "type" : "video"
+      },
+      {
+      "index" : "9",
+      "advertiserName" : "청소연구소",
+      "productName" :"청소연구소",
+      "advertiseUrl" : "https://github.com/MondSeo/obigo-carmo/raw/main/mp4/%EC%98%A4%EB%94%94%EC%98%A4%EA%B4%91%EA%B3%A0-%EC%B2%AD%EC%86%8C%EC%97%B0%EA%B5%AC%EC%86%8C.mp3",
+      "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230600000374390.jpg",
+      "description" : "청소연구소",
+      "point" : 50,
+      "duration" : 20,
+      "type" : "audio"
+      },
+      {
+      "index" : "10",
+      "advertiserName" : "하나증권",
+      "productName" :"하나증권",
+      "advertiseUrl" : "https://github.com/MondSeo/obigo-carmo/raw/main/mp4/%EC%98%A4%EB%94%94%EC%98%A4%EA%B4%91%EA%B3%A0-%ED%95%98%EB%82%98%EC%9D%80%ED%96%89.mp3",
+      "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230700000376200.jpg",
+      "description" : "하나증권",
+      "point" : 50,
+      "duration" : 20,
+      "type" : "audio"
       }
     ]
 }
