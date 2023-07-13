@@ -1,4 +1,5 @@
 {
+"advertise" : {
    "music": [
     {
       "index" :"0",
@@ -121,4 +122,5 @@
       "type" : "audio"
       }
     ]
+}
 }
