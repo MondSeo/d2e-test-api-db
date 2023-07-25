@@ -168,32 +168,6 @@
             "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/JMW%20%ED%97%A4%EC%96%B4%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4.png"
         }
     ],
-    "recentPurchaseProduct" : [
-        {
-            "productBrand" : "HUT",
-            "productName" : "너구리",
-            "productPrice" : 10000₩,
-            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230300000347775.jpg"
-        },
-        {
-            "productBrand" : "스위트컵",
-            "productName" : "컵",
-            "productPrice" : 5500₩,
-            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230600000372319.jpg"
-        },
-        {
-            "productBrand" : "삼성",
-            "productName" : "에어컨",
-            "productPrice" : 1200000₩,
-            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230600000374390.jpg"
-        },
-        {
-            "productBrand" : "알텐바흐",
-            "productName" : "프라이팬",
-            "productPrice" : 12000₩,
-            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230600000374641.jpg"
-        },
-    ]
     "d2eShopBanner" : [
             "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/banner/%EC%8B%A0%EA%B7%9C%EA%B0%80%EC%9E%85%20%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg",
             "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/banner/%EC%97%AC%ED%96%89%20%EC%BA%A0%ED%8E%98%EC%9D%B8.jpg",
