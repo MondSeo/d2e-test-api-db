@@ -123,4 +123,103 @@
       }
     ]
 }
+"product" : {
+    "d2eShop" : [
+        {
+            "productBrand" : "그린티",
+            "productName" : "화장품",
+            "productPrice" : 15000₩,
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%82%B0%ED%83%80%EB%A7%88%EB%A6%AC%EC%95%84%EB%85%B8%EB%B2%A8%EB%9D%BC%20%ED%8A%B9%EB%B3%84%EC%A0%84.jpg"
+        },
+        {
+            "productBrand" : "LG",
+            "productName" : "미니 선풍기",
+            "productPrice" : 13000₩,
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%86%90%EC%84%A0%ED%92%8D%EA%B8%B0%20%ED%8A%B9%EA%B0%80%EC%B0%AC%EC%8A%A4.jpg"
+        },
+        {
+            "productBrand" : "나이키",
+            "productName" : "옷",
+            "productPrice" : 22000₩,
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%95%84%EB%8F%99%EB%B3%B5%20%EC%B4%88%ED%8A%B9%EA%B0%80.jpg"
+        },
+        {
+            "productBrand" : "누리토이즈",
+            "productName" : "인형",
+            "productPrice" : 55000₩,
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%95%A0%EC%99%84%EA%B2%AC%20%EB%AF%B8%EC%9A%A9%20%EC%BF%A0%ED%8F%B0.jpg"
+        },
+        {
+            "productBrand" : "쥬씨",
+            "productName" : "디저트",
+            "productPrice" : 3000₩,
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%97%AC%EB%A6%84%20%EB%94%94%EC%A0%80%ED%8A%B8%20%ED%8A%B9%EB%B3%84%EC%A0%84.jpg"
+        },
+        {
+            "productBrand" : "알톤",
+            "productName" : "자전거",
+            "productPrice" : 550000₩,
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%9C%A0%EC%95%84%20%EC%9E%90%EC%A0%84%EA%B1%B0%20%ED%8A%B9%EB%B3%84%EC%A0%84.jpg"
+        },
+        {
+            "productBrand" : "삼성",
+            "productName" : "드라이기",
+            "productPrice" : 144000₩,
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/JMW%20%ED%97%A4%EC%96%B4%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4.png"
+        }
+    ],
+    "recentPurchaseProduct" : [
+        {
+            "productBrand" : "HUT",
+            "productName" : "너구리",
+            "productPrice" : 10000₩,
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230300000347775.jpg"
+        },
+        {
+            "productBrand" : "스위트컵",
+            "productName" : "컵",
+            "productPrice" : 5500₩,
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230600000372319.jpg"
+        },
+        {
+            "productBrand" : "삼성",
+            "productName" : "에어컨",
+            "productPrice" : 1200000₩,
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230600000374390.jpg"
+        },
+        {
+            "productBrand" : "알텐바흐",
+            "productName" : "프라이팬",
+            "productPrice" : 12000₩,
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230600000374641.jpg"
+        },
+    ]
+    "d2eShopBanner" : [
+            "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/banner/%EC%8B%A0%EA%B7%9C%EA%B0%80%EC%9E%85%20%EC%9D%B4%EB%B2%A4%ED%8A%B8.jpg",
+            "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/banner/%EC%97%AC%ED%96%89%20%EC%BA%A0%ED%8E%98%EC%9D%B8.jpg",
+            "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/banner/%ED%96%A5%EC%88%98%20%EA%B4%91%EA%B3%A0.jpg"
+    ],
+    "d2eShopCategory" : [
+        {
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%97%AC%EB%A6%84%20%EB%94%94%EC%A0%80%ED%8A%B8%20%ED%8A%B9%EB%B3%84%EC%A0%84.jpg"
+            "categoryName" : "음식"
+        },
+        {
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%9C%A0%EC%95%84%20%EC%9E%90%EC%A0%84%EA%B1%B0%20%ED%8A%B9%EB%B3%84%EC%A0%84.jpg"
+            "categoryName" : "전자제품"
+        },
+        {
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%9C%A0%EC%95%84%EC%9A%A9%20%EC%8B%A4%EB%82%B4%ED%99%94.jpg"
+            "categoryName" : "여행"
+        },
+        {
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%EC%A3%BC%EB%B0%A9%EA%B0%80%EC%A0%84.jpg"
+            "categoryName" : "옷"
+        },
+        {
+            "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%ED%97%A4%EC%96%B4%EC%BC%80%EC%96%B4%20%EB%AA%A8%EC%9D%8C%EC%A0%84.jpg"
+            "categoryName" : "전체보기"
+        },
+    ]
+}
 }
