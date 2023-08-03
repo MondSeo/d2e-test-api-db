@@ -31,7 +31,8 @@
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EB%B0%98%EB%A0%A4%EA%B2%AC%20%EC%82%AC%EB%A3%8C%20%EA%B4%91%EA%B3%A0.jpg",
       "description" : "신세계",
       "point" : 50,
-      "duration" : 31
+      "duration" : 31,
+      "type" : "video"
     },
     {
       "index" : "3",
