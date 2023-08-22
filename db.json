@@ -179,30 +179,30 @@
 "channel": {
   "viewable": [
     {
-      "pid": "_viewable",
+      "pid": "_responsive",
       "title": "반응형 광고",
       "imageUrl": "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%97%AC%EB%A6%84%20%EB%94%94%EC%A0%80%ED%8A%B8%20%ED%8A%B9%EB%B3%84%EC%A0%84.jpg",
-      "category": "responsive"
+      "category": "viewable"
     },
     {
-      "pid": "_viewable",
+      "pid": "_general",
       "title": "일반 광고",
       "imageUrl": "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%ED%97%A4%EC%96%B4%EC%BC%80%EC%96%B4%20%EB%AA%A8%EC%9D%8C%EC%A0%84.jpg",
-      "category": "general"
+      "category": "viewable"
     }
   ],
   "favorite": [
     {
-      "pid": "_favorite",
+      "pid": "_responsive",
       "title": "반응형 광고",
       "imageUrl": "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230600000374390.jpg",
-      "category": "responsive"
+      "category": "favorite"
     },
     {
-      "pid": "_favorite",
+      "pid": "_general",
       "title": "일반 광고",
       "imageUrl": "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%EC%A3%BC%EB%B0%A9%EA%B0%80%EC%A0%84.jpg",
-      "category": "general"
+      "category": "favorite"
     }
   ]
 }
