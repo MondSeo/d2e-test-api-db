@@ -9,7 +9,6 @@
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/JMW%20%ED%97%A4%EC%96%B4%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4.png",
       "description" : "뉴진스",
       "point" : 50,
-       "duration" : 16,
        "type" : "video"
     },
       {
@@ -20,7 +19,6 @@
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EB%AA%85%ED%92%88%EC%8B%9C%EA%B3%84%20%ED%8A%B9%EB%B3%84%EC%A0%84.jpg",
       "description" : "공공대작전",
       "point" : 30,
-      "duration" : 15,
       "type" : "video"
     },
     {
@@ -31,7 +29,6 @@
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EB%B0%98%EB%A0%A4%EA%B2%AC%20%EC%82%AC%EB%A3%8C%20%EA%B4%91%EA%B3%A0.jpg",
       "description" : "신세계",
       "point" : 50,
-      "duration" : 31,
       "type" : "video"
     },
     {
@@ -42,7 +39,6 @@
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230700000376200.jpg",
       "description" : "S.I 빌리지",
       "point" : 30,
-      "duration" : 15,
       "type" : "video"
     },
      {
@@ -53,7 +49,6 @@
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%82%B0%ED%83%80%EB%A7%88%EB%A6%AC%EC%95%84%EB%85%B8%EB%B2%A8%EB%9D%BC%20%ED%8A%B9%EB%B3%84%EC%A0%84.jpg",
       "description" : "시카고 피자",
       "point" : 50,
-      "duration" : 60,
       "type" : "video"
       },
       {
@@ -64,7 +59,6 @@
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230600000374641.jpg",
       "description" : "삼국지 혼",
       "point" : 50,
-      "duration" : 16,
       "type" : "video"
       },
       {
@@ -75,7 +69,6 @@
       "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230600000374390.jpg",
       "description" : "청소연구소",
       "point" : 50,
-      "duration" : 20,
       "type" : "audio"
       }
     ],
@@ -88,7 +81,6 @@
        "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%84%B8%EC%9D%B4%EC%A7%80%EC%9A%B0%EB%93%9C%207%EB%B0%958%EC%9D%BC.jpg",
        "description" : "박카스",
        "point" : 30,
-       "duration" : 15,
        "type" : "video"
        },
        {
@@ -99,7 +91,6 @@
        "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%EC%95%84%EB%8F%99%EB%B3%B5%20%EC%B4%88%ED%8A%B9%EA%B0%80.jpg",
        "description" : "타이어",
        "point" : 50,
-       "duration" : 16,
        "type" : "video"
        },
        {
@@ -110,7 +101,6 @@
        "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%20%EC%A3%BC%EB%B0%A9%EA%B0%80%EC%A0%84.jpg",
        "description" : "타이어",
        "point" : 100,
-       "duration" : 847,
        "type" : "video"
        },
        {
@@ -121,7 +111,6 @@
        "imageUrl" : "https://raw.githubusercontent.com/MondSeo/obigo-carmo/main/mp4/Mock-up/button/230700000376200.jpg",
        "description" : "하나증권",
        "point" : 50,
-       "duration" : 20,
        "type" : "audio"
        }
    ]
